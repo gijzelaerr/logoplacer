@@ -1,0 +1,3 @@
+*.pyc
+.virtualenv/
+notebooks/.ipynb_checkpoints/

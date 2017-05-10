@@ -1,0 +1,7 @@
+notebook
+git+https://github.com/yhenon/pyimgsaliency
+networkx
+scipy
+scikit-learn
+scikit-image
+
